@@ -1,6 +1,6 @@
-rootactions-servicemenu (2.7.3) vivid; urgency=low
+rootactions-servicemenu (2.7.3) sid; urgency=low
 
-  * Rebuild against vivid
+  * Rebuild against sid
 
  -- Leszek Lesner <leszek@zevenos.com>  Tue, 14 Apr 2015 10:12:26 +0200
 
